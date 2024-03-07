@@ -43,7 +43,8 @@
     }
     .icons  {
       width: 50%;
-      text-align: right; 
+      text-align: right;
+      color: black; 
     }
     .Barra-busqueda input   {
       border: none;
